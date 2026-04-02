@@ -1,0 +1,26 @@
+{
+    "220748": {
+        "name": "naina verma",
+        "student_id": "220748",
+        "roll_number": "2202200130021",
+        "section": "A",
+        "password": "3c68c87653bd819018980a7d1b146736922b74e0732ac55abf977979c07d71e7",
+        "registered_date": "2025-11-09 16:15:23"
+    },
+    "12345": {
+        "name": "mahima verma",
+        "student_id": "12345",
+        "roll_number": "223344",
+        "section": "B",
+        "password": "3c68c87653bd819018980a7d1b146736922b74e0732ac55abf977979c07d71e7",
+        "registered_date": "2025-11-09 19:14:28"
+    },
+    "123456": {
+        "name": "dev verma",
+        "student_id": "123456",
+        "roll_number": "22334455",
+        "section": "D",
+        "password": "3c68c87653bd819018980a7d1b146736922b74e0732ac55abf977979c07d71e7",
+        "registered_date": "2025-11-09 19:19:17"
+    }
+}
